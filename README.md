@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jahhel
-- 👀 I’m interested in cryptography, social engineering, web scraping, golang
+- 👀 I’m interested in cryptography, social engineering, web scraping and goLang
 - 🌱 I’m currently learning cyber security
 
 <!---
